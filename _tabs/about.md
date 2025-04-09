@@ -45,13 +45,3 @@ Este blog está construido con:
 - Markdown ✍️
 
 ---
-
-## 🧱 Tecnologías
-
-Este blog está construido con:
-
-- **Jekyll**
-- [Tema Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-- Markdown ✍️
-
----
